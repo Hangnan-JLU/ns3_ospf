@@ -29,6 +29,7 @@
 #include "ipv4-packet-info-tag.h"
 
 #include <unordered_map>
+#include <set>
 
 #define OSPF_ALL_NODE "224.0.0.5"
 
