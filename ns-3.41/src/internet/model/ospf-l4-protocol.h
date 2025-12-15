@@ -29,6 +29,7 @@
 
 #include <stdint.h>
 #include <unordered_map>
+#include <set>
 
 #include "loopback-net-device.h"
 
