@@ -30,6 +30,7 @@
 #include "ns3/random-variable-stream.h"
 
 #include <list>
+#include <set>
 
 namespace ns3
 {
